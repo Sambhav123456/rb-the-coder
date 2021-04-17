@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RbTheCoder/static/css/main.37d5a09a.chunk.css",
+    "main.js": "/RbTheCoder/static/js/main.5f9de907.chunk.js",
+    "main.js.map": "/RbTheCoder/static/js/main.5f9de907.chunk.js.map",
+    "runtime-main.js": "/RbTheCoder/static/js/runtime-main.23d27c99.js",
+    "runtime-main.js.map": "/RbTheCoder/static/js/runtime-main.23d27c99.js.map",
+    "static/js/2.7ea3132c.chunk.js": "/RbTheCoder/static/js/2.7ea3132c.chunk.js",
+    "static/js/2.7ea3132c.chunk.js.map": "/RbTheCoder/static/js/2.7ea3132c.chunk.js.map",
+    "static/js/3.15b39d11.chunk.js": "/RbTheCoder/static/js/3.15b39d11.chunk.js",
+    "static/js/3.15b39d11.chunk.js.map": "/RbTheCoder/static/js/3.15b39d11.chunk.js.map",
+    "index.html": "/RbTheCoder/index.html",
+    "static/css/main.37d5a09a.chunk.css.map": "/RbTheCoder/static/css/main.37d5a09a.chunk.css.map",
+    "static/js/2.7ea3132c.chunk.js.LICENSE.txt": "/RbTheCoder/static/js/2.7ea3132c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/RbTheCoder/static/media/Skateboarding.b53f1c75.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23d27c99.js",
+    "static/js/2.7ea3132c.chunk.js",
+    "static/css/main.37d5a09a.chunk.css",
+    "static/js/main.5f9de907.chunk.js"
+  ]
+}
